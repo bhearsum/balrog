@@ -1,0 +1,31 @@
+{
+    "build_targets": {
+        "Darwin_x86_64-gcc3-u-i386-x86_64": ["Darwin 15", "Darwin 16", "Darwin 17", "Darwin 18", "Darwin 19", "Darwin 20"],
+        "Darwin_aarch64-gcc3": ["Darwin 15", "Darwin 16", "Darwin 17", "Darwin 18", "Darwin 19", "Darwin 20"],
+        "Linux_x86-gcc3": ["default"],
+        "Linux_x86_64-gcc3": ["default"],
+        "WINNT_x86-msvc": ["Windows_NT 10", "Windows_NT 8", "Windows_NT 5", "Windows_NT 6"],
+        "WINNT_aarch64-msvc-aarch64": ["Windows_NT 10", "Windows_NT 8", "Windows_NT 5", "Windows_NT 6"]
+    },
+    "channels": {
+        "nightly": {
+            "min_version": "46.0a1",
+            "max_version": "89.0a1"
+        },
+        "beta": {
+            "min_version": "46.0",
+            "max_version": "89.0",
+            "point_releases": 3
+        },
+        "release": {
+            "min_version": "46.0",
+            "max_version": "89.0",
+            "point_releases": 3
+        },
+        "esr": {
+            "min_version": "46.0",
+            "max_version": "89.0",
+            "point_releases": 3
+        }
+    }
+}

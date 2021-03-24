@@ -1,0 +1,720 @@
+FAIL: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/nightlytest/Darwin 15/default/default/update.xml
+Expected widevine version 4.10.2209.0, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+        <addon id="gmp-widevinecdm" URL="https://redirector.gvt1.com/edgedl/widevine-cdm/4.10.1146.0-mac-x64.zip" hashFunction="sha512" hashValue="3b318f39808c7f8e2cc23e79cbfa164d189a100241d3f706a094cd4a3b534026948add3ecc54e06a64b6db7439f44a65cfae275ed0006f0cee2aef2224a6e4a0" size="3331068" version="4.10.1146.0"/>
+    </addons>
+</updates>
+FAIL: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/nightlytest/Darwin 16/default/default/update.xml
+Expected widevine version 4.10.2209.0, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+        <addon id="gmp-widevinecdm" URL="https://redirector.gvt1.com/edgedl/widevine-cdm/4.10.1146.0-mac-x64.zip" hashFunction="sha512" hashValue="3b318f39808c7f8e2cc23e79cbfa164d189a100241d3f706a094cd4a3b534026948add3ecc54e06a64b6db7439f44a65cfae275ed0006f0cee2aef2224a6e4a0" size="3331068" version="4.10.1146.0"/>
+    </addons>
+</updates>
+FAIL: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/nightlytest/Darwin 17/default/default/update.xml
+Expected widevine version 4.10.2209.0, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+        <addon id="gmp-widevinecdm" URL="https://redirector.gvt1.com/edgedl/widevine-cdm/4.10.1146.0-mac-x64.zip" hashFunction="sha512" hashValue="3b318f39808c7f8e2cc23e79cbfa164d189a100241d3f706a094cd4a3b534026948add3ecc54e06a64b6db7439f44a65cfae275ed0006f0cee2aef2224a6e4a0" size="3331068" version="4.10.1146.0"/>
+    </addons>
+</updates>
+FAIL: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/nightlytest/Darwin 18/default/default/update.xml
+Expected widevine version 4.10.2209.0, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+        <addon id="gmp-widevinecdm" URL="https://redirector.gvt1.com/edgedl/widevine-cdm/4.10.1146.0-mac-x64.zip" hashFunction="sha512" hashValue="3b318f39808c7f8e2cc23e79cbfa164d189a100241d3f706a094cd4a3b534026948add3ecc54e06a64b6db7439f44a65cfae275ed0006f0cee2aef2224a6e4a0" size="3331068" version="4.10.1146.0"/>
+    </addons>
+</updates>
+FAIL: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/nightlytest/Darwin 19/default/default/update.xml
+Expected widevine version 4.10.2209.0, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+        <addon id="gmp-widevinecdm" URL="https://redirector.gvt1.com/edgedl/widevine-cdm/4.10.1146.0-mac-x64.zip" hashFunction="sha512" hashValue="3b318f39808c7f8e2cc23e79cbfa164d189a100241d3f706a094cd4a3b534026948add3ecc54e06a64b6db7439f44a65cfae275ed0006f0cee2aef2224a6e4a0" size="3331068" version="4.10.1146.0"/>
+    </addons>
+</updates>
+FAIL: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/nightlytest/Darwin 20/default/default/update.xml
+Expected widevine version 4.10.2209.0, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+        <addon id="gmp-widevinecdm" URL="https://redirector.gvt1.com/edgedl/widevine-cdm/4.10.1146.0-mac-x64.zip" hashFunction="sha512" hashValue="3b318f39808c7f8e2cc23e79cbfa164d189a100241d3f706a094cd4a3b534026948add3ecc54e06a64b6db7439f44a65cfae275ed0006f0cee2aef2224a6e4a0" size="3331068" version="4.10.1146.0"/>
+    </addons>
+</updates>
+FAIL: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/Darwin_aarch64-gcc3/en-US/nightlytest/Darwin 15/default/default/update.xml
+Expected widevine version 4.10.2209.0, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+    </addons>
+</updates>
+FAIL: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/Darwin_aarch64-gcc3/en-US/nightlytest/Darwin 16/default/default/update.xml
+Expected widevine version 4.10.2209.0, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+    </addons>
+</updates>
+FAIL: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/Darwin_aarch64-gcc3/en-US/nightlytest/Darwin 17/default/default/update.xml
+Expected widevine version 4.10.2209.0, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+    </addons>
+</updates>
+FAIL: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/Darwin_aarch64-gcc3/en-US/nightlytest/Darwin 18/default/default/update.xml
+Expected widevine version 4.10.2209.0, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+    </addons>
+</updates>
+FAIL: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/Darwin_aarch64-gcc3/en-US/nightlytest/Darwin 19/default/default/update.xml
+Expected widevine version 4.10.2209.0, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+    </addons>
+</updates>
+FAIL: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/Darwin_aarch64-gcc3/en-US/nightlytest/Darwin 20/default/default/update.xml
+Expected widevine version 4.10.2209.0, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+    </addons>
+</updates>
+FAIL: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/Linux_x86-gcc3/en-US/nightlytest/default/default/default/update.xml
+Expected widevine version 4.10.2209.0, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+        <addon id="gmp-widevinecdm" URL="https://redirector.gvt1.com/edgedl/widevine-cdm/4.10.1146.0-linux-ia32.zip" hashFunction="sha512" hashValue="d8f440eca56b6a77bda8c10e84c840c9abe76be874fad97464456612845595518656a48a386c4ba647f9fd7a8011ce50720c8c0cd6d540e6cf16dccde7595abd" size="3199840" version="4.10.1146.0"/>
+    </addons>
+</updates>
+FAIL: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/Linux_x86_64-gcc3/en-US/nightlytest/default/default/default/update.xml
+Expected widevine version 4.10.2209.0, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+        <addon id="gmp-widevinecdm" URL="https://redirector.gvt1.com/edgedl/widevine-cdm/4.10.1146.0-linux-x64.zip" hashFunction="sha512" hashValue="3ead88fe1ee8aa265176ad05552da7b3b97a900bd0d3c0d0255be5a6c59a2b8147f235d9c72bc30c8c21b3c90df4514ef8d9b6d940cbdba486a63a45724c6557" size="3057741" version="4.10.1146.0"/>
+    </addons>
+</updates>
+FAIL: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/WINNT_x86-msvc/en-US/nightlytest/Windows_NT 10/default/default/update.xml
+Expected widevine version 4.10.2209.0, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+        <addon id="gmp-widevinecdm" URL="https://redirector.gvt1.com/edgedl/widevine-cdm/4.10.1146.0-win-ia32.zip" hashFunction="sha512" hashValue="d00fb1ce1b7d359ac0f06480d83960fc9aae25f6933e736483c7e27f86ad70a2ca7bfe45027874d1b619d3b72944372d5a7fb124ade4978efdcaeff0cc6c415b" size="3554840" version="4.10.1146.0"/>
+    </addons>
+</updates>
+FAIL: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/WINNT_x86-msvc/en-US/nightlytest/Windows_NT 8/default/default/update.xml
+Expected widevine version 4.10.2209.0, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+        <addon id="gmp-widevinecdm" URL="https://redirector.gvt1.com/edgedl/widevine-cdm/4.10.1146.0-win-ia32.zip" hashFunction="sha512" hashValue="d00fb1ce1b7d359ac0f06480d83960fc9aae25f6933e736483c7e27f86ad70a2ca7bfe45027874d1b619d3b72944372d5a7fb124ade4978efdcaeff0cc6c415b" size="3554840" version="4.10.1146.0"/>
+    </addons>
+</updates>
+FAIL: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/WINNT_x86-msvc/en-US/nightlytest/Windows_NT 6/default/default/update.xml
+Expected widevine version 4.10.2209.0, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+        <addon id="gmp-widevinecdm" URL="https://redirector.gvt1.com/edgedl/widevine-cdm/4.10.1146.0-win-ia32.zip" hashFunction="sha512" hashValue="d00fb1ce1b7d359ac0f06480d83960fc9aae25f6933e736483c7e27f86ad70a2ca7bfe45027874d1b619d3b72944372d5a7fb124ade4978efdcaeff0cc6c415b" size="3554840" version="4.10.1146.0"/>
+    </addons>
+</updates>
+FAIL: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/nightlytest/Windows_NT 10/default/default/update.xml
+Expected widevine version 4.10.2209.0, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+        <addon id="gmp-widevinecdm" URL="https://redirector.gvt1.com/edgedl/widevine-cdm/4.10.1146.0-win-x64.zip" hashFunction="sha512" hashValue="6879b1a718f121eaca93864fa08dc29d5cd5adbdcfc3c3b7dd8cabea768ef4b2cc44b0d43bd04ce2768bea8039faf0a2ebc6d81247101abbe28efda253c89197" size="3523651" version="4.10.1146.0"/>
+    </addons>
+</updates>
+FAIL: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/nightlytest/Windows_NT 8/default/default/update.xml
+Expected widevine version 4.10.2209.0, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+        <addon id="gmp-widevinecdm" URL="https://redirector.gvt1.com/edgedl/widevine-cdm/4.10.1146.0-win-x64.zip" hashFunction="sha512" hashValue="6879b1a718f121eaca93864fa08dc29d5cd5adbdcfc3c3b7dd8cabea768ef4b2cc44b0d43bd04ce2768bea8039faf0a2ebc6d81247101abbe28efda253c89197" size="3523651" version="4.10.1146.0"/>
+    </addons>
+</updates>
+FAIL: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/nightlytest/Windows_NT 10/default/default/update.xml
+Expected widevine version 4.10.2209.0, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+    </addons>
+</updates>
+FAIL: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/nightlytest/Windows_NT 8/default/default/update.xml
+Expected widevine version 4.10.2209.0, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+    </addons>
+</updates>
+FAIL: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/nightlytest/Windows_NT 6/default/default/update.xml
+Expected widevine version 4.10.2209.0, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+    </addons>
+</updates>
+PASS: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 15/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 16/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 17/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 18/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 19/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 20/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/Darwin_aarch64-gcc3/en-US/releasetest/Darwin 15/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/Darwin_aarch64-gcc3/en-US/releasetest/Darwin 16/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/Darwin_aarch64-gcc3/en-US/releasetest/Darwin 17/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/Darwin_aarch64-gcc3/en-US/releasetest/Darwin 18/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/Darwin_aarch64-gcc3/en-US/releasetest/Darwin 19/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/Darwin_aarch64-gcc3/en-US/releasetest/Darwin 20/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/Linux_x86-gcc3/en-US/releasetest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/Linux_x86_64-gcc3/en-US/releasetest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/WINNT_x86-msvc/en-US/releasetest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/WINNT_x86-msvc/en-US/releasetest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/WINNT_x86-msvc/en-US/releasetest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/releasetest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/releasetest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/releasetest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/releasetest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/89.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/releasetest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/88.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 15/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/88.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 16/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/88.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 17/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/88.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 18/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/88.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 19/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/88.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 20/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/88.0/20200101010101/Darwin_aarch64-gcc3/en-US/releasetest/Darwin 15/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/88.0/20200101010101/Darwin_aarch64-gcc3/en-US/releasetest/Darwin 16/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/88.0/20200101010101/Darwin_aarch64-gcc3/en-US/releasetest/Darwin 17/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/88.0/20200101010101/Darwin_aarch64-gcc3/en-US/releasetest/Darwin 18/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/88.0/20200101010101/Darwin_aarch64-gcc3/en-US/releasetest/Darwin 19/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/88.0/20200101010101/Darwin_aarch64-gcc3/en-US/releasetest/Darwin 20/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/88.0/20200101010101/Linux_x86-gcc3/en-US/releasetest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/88.0/20200101010101/Linux_x86_64-gcc3/en-US/releasetest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/88.0/20200101010101/WINNT_x86-msvc/en-US/releasetest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/88.0/20200101010101/WINNT_x86-msvc/en-US/releasetest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/88.0/20200101010101/WINNT_x86-msvc/en-US/releasetest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/88.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/releasetest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/88.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/releasetest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/88.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/releasetest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/88.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/releasetest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/88.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/releasetest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/87.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 15/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/87.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 16/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/87.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 17/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/87.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 18/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/87.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 19/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/87.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 20/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/87.0/20200101010101/Darwin_aarch64-gcc3/en-US/releasetest/Darwin 15/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/87.0/20200101010101/Darwin_aarch64-gcc3/en-US/releasetest/Darwin 16/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/87.0/20200101010101/Darwin_aarch64-gcc3/en-US/releasetest/Darwin 17/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/87.0/20200101010101/Darwin_aarch64-gcc3/en-US/releasetest/Darwin 18/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/87.0/20200101010101/Darwin_aarch64-gcc3/en-US/releasetest/Darwin 19/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/87.0/20200101010101/Darwin_aarch64-gcc3/en-US/releasetest/Darwin 20/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/87.0/20200101010101/Linux_x86-gcc3/en-US/releasetest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/87.0/20200101010101/Linux_x86_64-gcc3/en-US/releasetest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/87.0/20200101010101/WINNT_x86-msvc/en-US/releasetest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/87.0/20200101010101/WINNT_x86-msvc/en-US/releasetest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/87.0/20200101010101/WINNT_x86-msvc/en-US/releasetest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/87.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/releasetest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/87.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/releasetest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/87.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/releasetest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/87.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/releasetest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/87.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/releasetest/Windows_NT 6/default/default/update.xml
+FAIL: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/nightlytest/Darwin 15/default/default/update.xml
+Expected widevine version 4.10.1582.2, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+        <addon id="gmp-widevinecdm" URL="https://redirector.gvt1.com/edgedl/widevine-cdm/4.10.1146.0-mac-x64.zip" hashFunction="sha512" hashValue="3b318f39808c7f8e2cc23e79cbfa164d189a100241d3f706a094cd4a3b534026948add3ecc54e06a64b6db7439f44a65cfae275ed0006f0cee2aef2224a6e4a0" size="3331068" version="4.10.1146.0"/>
+    </addons>
+</updates>
+FAIL: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/nightlytest/Darwin 16/default/default/update.xml
+Expected widevine version 4.10.1582.2, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+        <addon id="gmp-widevinecdm" URL="https://redirector.gvt1.com/edgedl/widevine-cdm/4.10.1146.0-mac-x64.zip" hashFunction="sha512" hashValue="3b318f39808c7f8e2cc23e79cbfa164d189a100241d3f706a094cd4a3b534026948add3ecc54e06a64b6db7439f44a65cfae275ed0006f0cee2aef2224a6e4a0" size="3331068" version="4.10.1146.0"/>
+    </addons>
+</updates>
+FAIL: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/nightlytest/Darwin 17/default/default/update.xml
+Expected widevine version 4.10.1582.2, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+        <addon id="gmp-widevinecdm" URL="https://redirector.gvt1.com/edgedl/widevine-cdm/4.10.1146.0-mac-x64.zip" hashFunction="sha512" hashValue="3b318f39808c7f8e2cc23e79cbfa164d189a100241d3f706a094cd4a3b534026948add3ecc54e06a64b6db7439f44a65cfae275ed0006f0cee2aef2224a6e4a0" size="3331068" version="4.10.1146.0"/>
+    </addons>
+</updates>
+FAIL: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/nightlytest/Darwin 18/default/default/update.xml
+Expected widevine version 4.10.1582.2, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+        <addon id="gmp-widevinecdm" URL="https://redirector.gvt1.com/edgedl/widevine-cdm/4.10.1146.0-mac-x64.zip" hashFunction="sha512" hashValue="3b318f39808c7f8e2cc23e79cbfa164d189a100241d3f706a094cd4a3b534026948add3ecc54e06a64b6db7439f44a65cfae275ed0006f0cee2aef2224a6e4a0" size="3331068" version="4.10.1146.0"/>
+    </addons>
+</updates>
+FAIL: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/nightlytest/Darwin 19/default/default/update.xml
+Expected widevine version 4.10.1582.2, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+        <addon id="gmp-widevinecdm" URL="https://redirector.gvt1.com/edgedl/widevine-cdm/4.10.1146.0-mac-x64.zip" hashFunction="sha512" hashValue="3b318f39808c7f8e2cc23e79cbfa164d189a100241d3f706a094cd4a3b534026948add3ecc54e06a64b6db7439f44a65cfae275ed0006f0cee2aef2224a6e4a0" size="3331068" version="4.10.1146.0"/>
+    </addons>
+</updates>
+FAIL: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/nightlytest/Darwin 20/default/default/update.xml
+Expected widevine version 4.10.1582.2, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+        <addon id="gmp-widevinecdm" URL="https://redirector.gvt1.com/edgedl/widevine-cdm/4.10.1146.0-mac-x64.zip" hashFunction="sha512" hashValue="3b318f39808c7f8e2cc23e79cbfa164d189a100241d3f706a094cd4a3b534026948add3ecc54e06a64b6db7439f44a65cfae275ed0006f0cee2aef2224a6e4a0" size="3331068" version="4.10.1146.0"/>
+    </addons>
+</updates>
+FAIL: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/Linux_x86-gcc3/en-US/nightlytest/default/default/default/update.xml
+Expected widevine version 4.10.1582.2, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+        <addon id="gmp-widevinecdm" URL="https://redirector.gvt1.com/edgedl/widevine-cdm/4.10.1146.0-linux-ia32.zip" hashFunction="sha512" hashValue="d8f440eca56b6a77bda8c10e84c840c9abe76be874fad97464456612845595518656a48a386c4ba647f9fd7a8011ce50720c8c0cd6d540e6cf16dccde7595abd" size="3199840" version="4.10.1146.0"/>
+    </addons>
+</updates>
+FAIL: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/Linux_x86_64-gcc3/en-US/nightlytest/default/default/default/update.xml
+Expected widevine version 4.10.1582.2, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+        <addon id="gmp-widevinecdm" URL="https://redirector.gvt1.com/edgedl/widevine-cdm/4.10.1146.0-linux-x64.zip" hashFunction="sha512" hashValue="3ead88fe1ee8aa265176ad05552da7b3b97a900bd0d3c0d0255be5a6c59a2b8147f235d9c72bc30c8c21b3c90df4514ef8d9b6d940cbdba486a63a45724c6557" size="3057741" version="4.10.1146.0"/>
+    </addons>
+</updates>
+FAIL: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/WINNT_x86-msvc/en-US/nightlytest/Windows_NT 10/default/default/update.xml
+Expected widevine version 4.10.1582.2, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+        <addon id="gmp-widevinecdm" URL="https://redirector.gvt1.com/edgedl/widevine-cdm/4.10.1146.0-win-ia32.zip" hashFunction="sha512" hashValue="d00fb1ce1b7d359ac0f06480d83960fc9aae25f6933e736483c7e27f86ad70a2ca7bfe45027874d1b619d3b72944372d5a7fb124ade4978efdcaeff0cc6c415b" size="3554840" version="4.10.1146.0"/>
+    </addons>
+</updates>
+FAIL: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/WINNT_x86-msvc/en-US/nightlytest/Windows_NT 8/default/default/update.xml
+Expected widevine version 4.10.1582.2, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+        <addon id="gmp-widevinecdm" URL="https://redirector.gvt1.com/edgedl/widevine-cdm/4.10.1146.0-win-ia32.zip" hashFunction="sha512" hashValue="d00fb1ce1b7d359ac0f06480d83960fc9aae25f6933e736483c7e27f86ad70a2ca7bfe45027874d1b619d3b72944372d5a7fb124ade4978efdcaeff0cc6c415b" size="3554840" version="4.10.1146.0"/>
+    </addons>
+</updates>
+FAIL: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/WINNT_x86-msvc/en-US/nightlytest/Windows_NT 6/default/default/update.xml
+Expected widevine version 4.10.1582.2, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+        <addon id="gmp-widevinecdm" URL="https://redirector.gvt1.com/edgedl/widevine-cdm/4.10.1146.0-win-ia32.zip" hashFunction="sha512" hashValue="d00fb1ce1b7d359ac0f06480d83960fc9aae25f6933e736483c7e27f86ad70a2ca7bfe45027874d1b619d3b72944372d5a7fb124ade4978efdcaeff0cc6c415b" size="3554840" version="4.10.1146.0"/>
+    </addons>
+</updates>
+FAIL: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/nightlytest/Windows_NT 10/default/default/update.xml
+Expected widevine version 4.10.1582.2, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+        <addon id="gmp-widevinecdm" URL="https://redirector.gvt1.com/edgedl/widevine-cdm/4.10.1146.0-win-x64.zip" hashFunction="sha512" hashValue="6879b1a718f121eaca93864fa08dc29d5cd5adbdcfc3c3b7dd8cabea768ef4b2cc44b0d43bd04ce2768bea8039faf0a2ebc6d81247101abbe28efda253c89197" size="3523651" version="4.10.1146.0"/>
+    </addons>
+</updates>
+FAIL: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/nightlytest/Windows_NT 8/default/default/update.xml
+Expected widevine version 4.10.1582.2, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+        <addon id="gmp-widevinecdm" URL="https://redirector.gvt1.com/edgedl/widevine-cdm/4.10.1146.0-win-x64.zip" hashFunction="sha512" hashValue="6879b1a718f121eaca93864fa08dc29d5cd5adbdcfc3c3b7dd8cabea768ef4b2cc44b0d43bd04ce2768bea8039faf0a2ebc6d81247101abbe28efda253c89197" size="3523651" version="4.10.1146.0"/>
+    </addons>
+</updates>
+FAIL: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/nightlytest/Windows_NT 10/default/default/update.xml
+Expected widevine version 4.10.1582.2, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+    </addons>
+</updates>
+FAIL: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/nightlytest/Windows_NT 8/default/default/update.xml
+Expected widevine version 4.10.1582.2, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+    </addons>
+</updates>
+FAIL: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/nightlytest/Windows_NT 6/default/default/update.xml
+Expected widevine version 4.10.1582.2, got this response instead:
+<?xml version="1.0"?>
+<updates>
+    <addons>
+    </addons>
+</updates>
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/betatest/Darwin 15/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/betatest/Darwin 16/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/betatest/Darwin 17/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/betatest/Darwin 18/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/betatest/Darwin 19/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/betatest/Darwin 20/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/Linux_x86-gcc3/en-US/betatest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/Linux_x86_64-gcc3/en-US/betatest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/WINNT_x86-msvc/en-US/betatest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/WINNT_x86-msvc/en-US/betatest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/WINNT_x86-msvc/en-US/betatest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/betatest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/betatest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/betatest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/betatest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/betatest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 15/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 16/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 17/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 18/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 19/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 20/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/Linux_x86-gcc3/en-US/releasetest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/Linux_x86_64-gcc3/en-US/releasetest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/WINNT_x86-msvc/en-US/releasetest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/WINNT_x86-msvc/en-US/releasetest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/WINNT_x86-msvc/en-US/releasetest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/releasetest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/releasetest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/releasetest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/releasetest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/releasetest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/esrtest/Darwin 15/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/esrtest/Darwin 16/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/esrtest/Darwin 17/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/esrtest/Darwin 18/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/esrtest/Darwin 19/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/esrtest/Darwin 20/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/Linux_x86-gcc3/en-US/esrtest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/Linux_x86_64-gcc3/en-US/esrtest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/WINNT_x86-msvc/en-US/esrtest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/WINNT_x86-msvc/en-US/esrtest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/WINNT_x86-msvc/en-US/esrtest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/esrtest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/esrtest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/esrtest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/esrtest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/74.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/esrtest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/73.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/betatest/Darwin 15/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/73.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/betatest/Darwin 16/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/73.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/betatest/Darwin 17/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/73.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/betatest/Darwin 18/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/73.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/betatest/Darwin 19/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/73.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/betatest/Darwin 20/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/73.0/20200101010101/Linux_x86-gcc3/en-US/betatest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/73.0/20200101010101/Linux_x86_64-gcc3/en-US/betatest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/73.0/20200101010101/WINNT_x86-msvc/en-US/betatest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/73.0/20200101010101/WINNT_x86-msvc/en-US/betatest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/73.0/20200101010101/WINNT_x86-msvc/en-US/betatest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/73.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/betatest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/73.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/betatest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/73.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/betatest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/73.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/betatest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/73.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/betatest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/73.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 15/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/73.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 16/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/73.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 17/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/73.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 18/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/73.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 19/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/73.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 20/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/73.0/20200101010101/Linux_x86-gcc3/en-US/releasetest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/73.0/20200101010101/Linux_x86_64-gcc3/en-US/releasetest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/73.0/20200101010101/WINNT_x86-msvc/en-US/releasetest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/73.0/20200101010101/WINNT_x86-msvc/en-US/releasetest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/73.0/20200101010101/WINNT_x86-msvc/en-US/releasetest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/73.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/releasetest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/73.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/releasetest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/73.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/releasetest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/73.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/releasetest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/73.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/releasetest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/betatest/Darwin 15/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/betatest/Darwin 16/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/betatest/Darwin 17/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/betatest/Darwin 18/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/betatest/Darwin 19/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/betatest/Darwin 20/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/Linux_x86-gcc3/en-US/betatest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/Linux_x86_64-gcc3/en-US/betatest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/WINNT_x86-msvc/en-US/betatest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/WINNT_x86-msvc/en-US/betatest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/WINNT_x86-msvc/en-US/betatest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/betatest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/betatest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/betatest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/betatest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/betatest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/nightlytest/Darwin 15/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/nightlytest/Darwin 16/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/nightlytest/Darwin 17/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/nightlytest/Darwin 18/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/nightlytest/Darwin 19/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/nightlytest/Darwin 20/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/Linux_x86-gcc3/en-US/nightlytest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/Linux_x86_64-gcc3/en-US/nightlytest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/WINNT_x86-msvc/en-US/nightlytest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/WINNT_x86-msvc/en-US/nightlytest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/WINNT_x86-msvc/en-US/nightlytest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/nightlytest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/nightlytest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/nightlytest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/nightlytest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/nightlytest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 15/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 16/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 17/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 18/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 19/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 20/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/Linux_x86-gcc3/en-US/releasetest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/Linux_x86_64-gcc3/en-US/releasetest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/WINNT_x86-msvc/en-US/releasetest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/WINNT_x86-msvc/en-US/releasetest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/WINNT_x86-msvc/en-US/releasetest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/releasetest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/releasetest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/releasetest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/releasetest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/releasetest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/esrtest/Darwin 15/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/esrtest/Darwin 16/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/esrtest/Darwin 17/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/esrtest/Darwin 18/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/esrtest/Darwin 19/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/esrtest/Darwin 20/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/Linux_x86-gcc3/en-US/esrtest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/Linux_x86_64-gcc3/en-US/esrtest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/WINNT_x86-msvc/en-US/esrtest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/WINNT_x86-msvc/en-US/esrtest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/WINNT_x86-msvc/en-US/esrtest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/esrtest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/esrtest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/esrtest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/esrtest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/72.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/esrtest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/betatest/Darwin 15/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/betatest/Darwin 16/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/betatest/Darwin 17/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/betatest/Darwin 18/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/betatest/Darwin 19/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/betatest/Darwin 20/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/Linux_x86-gcc3/en-US/betatest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/Linux_x86_64-gcc3/en-US/betatest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/WINNT_x86-msvc/en-US/betatest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/WINNT_x86-msvc/en-US/betatest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/WINNT_x86-msvc/en-US/betatest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/betatest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/betatest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/betatest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/betatest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/betatest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/nightlytest/Darwin 15/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/nightlytest/Darwin 16/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/nightlytest/Darwin 17/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/nightlytest/Darwin 18/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/nightlytest/Darwin 19/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/nightlytest/Darwin 20/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/Linux_x86-gcc3/en-US/nightlytest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/Linux_x86_64-gcc3/en-US/nightlytest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/WINNT_x86-msvc/en-US/nightlytest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/WINNT_x86-msvc/en-US/nightlytest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/WINNT_x86-msvc/en-US/nightlytest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/nightlytest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/nightlytest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/nightlytest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/nightlytest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/nightlytest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 15/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 16/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 17/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 18/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 19/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 20/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/Linux_x86-gcc3/en-US/releasetest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/Linux_x86_64-gcc3/en-US/releasetest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/WINNT_x86-msvc/en-US/releasetest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/WINNT_x86-msvc/en-US/releasetest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/WINNT_x86-msvc/en-US/releasetest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/releasetest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/releasetest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/releasetest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/releasetest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/releasetest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/esrtest/Darwin 15/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/esrtest/Darwin 16/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/esrtest/Darwin 17/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/esrtest/Darwin 18/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/esrtest/Darwin 19/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/esrtest/Darwin 20/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/Linux_x86-gcc3/en-US/esrtest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/Linux_x86_64-gcc3/en-US/esrtest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/WINNT_x86-msvc/en-US/esrtest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/WINNT_x86-msvc/en-US/esrtest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/WINNT_x86-msvc/en-US/esrtest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/esrtest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/esrtest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/esrtest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/esrtest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/69.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/esrtest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/nightlytest/Darwin 15/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/nightlytest/Darwin 16/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/nightlytest/Darwin 17/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/nightlytest/Darwin 18/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/nightlytest/Darwin 19/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/nightlytest/Darwin 20/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/Linux_x86-gcc3/en-US/nightlytest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/Linux_x86_64-gcc3/en-US/nightlytest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/WINNT_x86-msvc/en-US/nightlytest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/WINNT_x86-msvc/en-US/nightlytest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/WINNT_x86-msvc/en-US/nightlytest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/nightlytest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/nightlytest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/nightlytest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/nightlytest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/nightlytest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/nightlytest/Darwin 15/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/nightlytest/Darwin 16/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/nightlytest/Darwin 17/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/nightlytest/Darwin 18/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/nightlytest/Darwin 19/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/nightlytest/Darwin 20/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/Linux_x86-gcc3/en-US/nightlytest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/Linux_x86_64-gcc3/en-US/nightlytest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/WINNT_x86-msvc/en-US/nightlytest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/WINNT_x86-msvc/en-US/nightlytest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/WINNT_x86-msvc/en-US/nightlytest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/WINNT_x86_64-msvc-x64/en-US/nightlytest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/WINNT_x86_64-msvc-x64/en-US/nightlytest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/WINNT_aarch64-msvc-aarch64/en-US/nightlytest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/WINNT_aarch64-msvc-aarch64/en-US/nightlytest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/WINNT_aarch64-msvc-aarch64/en-US/nightlytest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/betatest/Darwin 15/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/betatest/Darwin 16/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/betatest/Darwin 17/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/betatest/Darwin 18/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/betatest/Darwin 19/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/betatest/Darwin 20/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/Linux_x86-gcc3/en-US/betatest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/Linux_x86_64-gcc3/en-US/betatest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/WINNT_x86-msvc/en-US/betatest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/WINNT_x86-msvc/en-US/betatest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/WINNT_x86-msvc/en-US/betatest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/betatest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/betatest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/betatest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/betatest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/betatest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/betatest/Darwin 15/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/betatest/Darwin 16/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/betatest/Darwin 17/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/betatest/Darwin 18/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/betatest/Darwin 19/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/betatest/Darwin 20/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/Linux_x86-gcc3/en-US/betatest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/Linux_x86_64-gcc3/en-US/betatest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/WINNT_x86-msvc/en-US/betatest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/WINNT_x86-msvc/en-US/betatest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/WINNT_x86-msvc/en-US/betatest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/WINNT_x86_64-msvc-x64/en-US/betatest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/WINNT_x86_64-msvc-x64/en-US/betatest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/WINNT_aarch64-msvc-aarch64/en-US/betatest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/WINNT_aarch64-msvc-aarch64/en-US/betatest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/WINNT_aarch64-msvc-aarch64/en-US/betatest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 15/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 16/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 17/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 18/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 19/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 20/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/Linux_x86-gcc3/en-US/releasetest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/Linux_x86_64-gcc3/en-US/releasetest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/WINNT_x86-msvc/en-US/releasetest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/WINNT_x86-msvc/en-US/releasetest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/WINNT_x86-msvc/en-US/releasetest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/releasetest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/releasetest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/releasetest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/releasetest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/releasetest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 15/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 16/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 17/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 18/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 19/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/releasetest/Darwin 20/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/Linux_x86-gcc3/en-US/releasetest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/Linux_x86_64-gcc3/en-US/releasetest/default/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/WINNT_x86-msvc/en-US/releasetest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/WINNT_x86-msvc/en-US/releasetest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/WINNT_x86-msvc/en-US/releasetest/Windows_NT 6/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/WINNT_x86_64-msvc-x64/en-US/releasetest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/WINNT_x86_64-msvc-x64/en-US/releasetest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/WINNT_aarch64-msvc-aarch64/en-US/releasetest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/WINNT_aarch64-msvc-aarch64/en-US/releasetest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/WINNT_aarch64-msvc-aarch64/en-US/releasetest/Windows_NT 6/default/default/update.xml
+FAIL: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/esrtest/Darwin 15/default/default/update.xml
+Should not have gotten a widevine version
+FAIL: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/esrtest/Darwin 16/default/default/update.xml
+Should not have gotten a widevine version
+FAIL: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/esrtest/Darwin 17/default/default/update.xml
+Should not have gotten a widevine version
+FAIL: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/esrtest/Darwin 18/default/default/update.xml
+Should not have gotten a widevine version
+FAIL: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/esrtest/Darwin 19/default/default/update.xml
+Should not have gotten a widevine version
+FAIL: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/esrtest/Darwin 20/default/default/update.xml
+Should not have gotten a widevine version
+FAIL: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/Linux_x86-gcc3/en-US/esrtest/default/default/default/update.xml
+Should not have gotten a widevine version
+FAIL: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/Linux_x86_64-gcc3/en-US/esrtest/default/default/default/update.xml
+Should not have gotten a widevine version
+FAIL: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/WINNT_x86-msvc/en-US/esrtest/Windows_NT 10/default/default/update.xml
+Should not have gotten a widevine version
+FAIL: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/WINNT_x86-msvc/en-US/esrtest/Windows_NT 8/default/default/update.xml
+Should not have gotten a widevine version
+FAIL: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/WINNT_x86-msvc/en-US/esrtest/Windows_NT 6/default/default/update.xml
+Should not have gotten a widevine version
+FAIL: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/esrtest/Windows_NT 10/default/default/update.xml
+Should not have gotten a widevine version
+FAIL: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/WINNT_x86_64-msvc-x64/en-US/esrtest/Windows_NT 8/default/default/update.xml
+Should not have gotten a widevine version
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/esrtest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/esrtest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20200101010101/WINNT_aarch64-msvc-aarch64/en-US/esrtest/Windows_NT 6/default/default/update.xml
+FAIL: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/esrtest/Darwin 15/default/default/update.xml
+Should not have gotten a widevine version
+FAIL: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/esrtest/Darwin 16/default/default/update.xml
+Should not have gotten a widevine version
+FAIL: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/esrtest/Darwin 17/default/default/update.xml
+Should not have gotten a widevine version
+FAIL: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/esrtest/Darwin 18/default/default/update.xml
+Should not have gotten a widevine version
+FAIL: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/esrtest/Darwin 19/default/default/update.xml
+Should not have gotten a widevine version
+FAIL: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/esrtest/Darwin 20/default/default/update.xml
+Should not have gotten a widevine version
+FAIL: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/Linux_x86-gcc3/en-US/esrtest/default/default/default/update.xml
+Should not have gotten a widevine version
+FAIL: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/Linux_x86_64-gcc3/en-US/esrtest/default/default/default/update.xml
+Should not have gotten a widevine version
+FAIL: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/WINNT_x86-msvc/en-US/esrtest/Windows_NT 10/default/default/update.xml
+Should not have gotten a widevine version
+FAIL: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/WINNT_x86-msvc/en-US/esrtest/Windows_NT 8/default/default/update.xml
+Should not have gotten a widevine version
+FAIL: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/WINNT_x86-msvc/en-US/esrtest/Windows_NT 6/default/default/update.xml
+Should not have gotten a widevine version
+FAIL: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/WINNT_x86_64-msvc-x64/en-US/esrtest/Windows_NT 10/default/default/update.xml
+Should not have gotten a widevine version
+FAIL: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/WINNT_x86_64-msvc-x64/en-US/esrtest/Windows_NT 8/default/default/update.xml
+Should not have gotten a widevine version
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/WINNT_aarch64-msvc-aarch64/en-US/esrtest/Windows_NT 10/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/WINNT_aarch64-msvc-aarch64/en-US/esrtest/Windows_NT 8/default/default/update.xml
+PASS: https://aus5.mozilla.org/update/3/Widevine/46.0/20170829220349/WINNT_aarch64-msvc-aarch64/en-US/esrtest/Windows_NT 6/default/default/update.xml
