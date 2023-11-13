@@ -662,6 +662,27 @@ class TestSingleRuleView_JSON(ViewTest):
         self.assertEqual(r[0]["version"], "3.5")
         self.assertEqual(r[0]["buildTarget"], "d")
 
+    def testPostRuleWithUnchangingAlias(self):
+        """Verify that a rule with an alias can be updated, and that providing a value
+        for alias that is the same as the current alias does not prevent this."""
+
+        ret = self._post(
+            "/rules/2",
+            data=dict(
+                alias="frodo",
+                backgroundRate=50,
+                data_version=1,
+            ),
+        )
+        self.assertEqual(ret.status_code, 200, "Status Code: %d, Data: %s" % (ret.status_code, ret.get_data()))
+        load = ret.get_json()
+        self.assertEqual(load["new_data_version"], 2)
+        r = dbo.rules.t.select().where(dbo.rules.rule_id == 1).execute().fetchall()
+        self.assertEqual(len(r), 1)
+        self.assertEqual(r[0]["alias"], "frodo")
+        self.assertEqual(r[0]["backgroundRate"], 50)
+        self.assertEqual(r[0]["priority"], 100)
+
     def testPostChangeToMemory(self):
         # Make some changes to a rule
         ret = self._post("/rules/1", data=dict(memory="42", data_version=2))
@@ -1987,6 +2008,62 @@ class TestRuleScheduledChanges(ViewTest):
             }
         }
         self.assertEqual(ret.get_json(), expected)
+
+    @mock.patch("time.time", mock.MagicMock(return_value=300))
+    def testAddScheduledChangeExistingRuleUnchangingAlias(self):
+        data = {
+            "rule_id": 2,
+            "telemetry_product": None,
+            "telemetry_channel": None,
+            "telemetry_uptake": None,
+            "alias": "frodo",
+            "backgroundRate": 50,
+            "data_version": 1,
+            "change_type": "update",
+            "when": 1234567,
+        }
+        ret = self._post("/scheduled_changes/rules", data=data)
+        self.assertEqual(ret.status_code, 200, ret.get_data())
+        self.assertEqual(ret.get_json(), {"sc_id": 8, "signoffs": {"bill": "releng"}})
+
+        r = dbo.rules.scheduled_changes.t.select().where(dbo.rules.scheduled_changes.sc_id == 8).execute().fetchall()
+        self.assertEqual(len(r), 1)
+        db_data = dict(r[0])
+        expected = {
+            "scheduled_by": "bill",
+            "base_rule_id": 2,
+            "base_priority": 100,
+            "base_buildTarget": "d",
+            "base_version": "3.3",
+            "base_backgroundRate": 50,
+            "base_mapping": "b",
+            "base_update_type": "minor",
+            "base_product": "a",
+            "base_channel": "a",
+            "base_alias": "frodo",
+            "base_data_version": 1,
+            "data_version": 1,
+            "sc_id": 8,
+            "complete": False,
+            "base_buildID": None,
+            "base_locale": None,
+            "base_osVersion": None,
+            "base_distribution": None,
+            "base_fallbackMapping": None,
+            "base_distVersion": None,
+            "base_headerArchitecture": None,
+            "base_comment": None,
+            "base_memory": None,
+            "base_mig64": None,
+            "base_instructionSet": None,
+            "base_jaws": None,
+            "change_type": "update",
+        }
+        self.assertEqual(db_data, expected)
+        cond = dbo.rules.scheduled_changes.conditions.t.select().where(dbo.rules.scheduled_changes.conditions.sc_id == 8).execute().fetchall()
+        self.assertEqual(len(cond), 1)
+        cond_expected = {"sc_id": 8, "data_version": 1, "telemetry_product": None, "telemetry_channel": None, "telemetry_uptake": None, "when": 1234567}
+        self.assertEqual(dict(cond[0]), cond_expected)
 
     @mock.patch("time.time", mock.MagicMock(return_value=300))
     def testAddScheduledChangeExistingRule(self):
