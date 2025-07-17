@@ -2,7 +2,7 @@ from copy import deepcopy
 
 import pytest
 from aiohttp import ClientError
-from mock import MagicMock
+from mock import MagicMock, mock
 
 import auslib.services.releases
 import auslib.util.timestamp
@@ -2152,3 +2152,41 @@ def test_set_older_pin_does_nothing(api):
     assert ret.status_code == 200
     mapping = dbo.pinnable_releases.getPinMapping(product=product, channel=channel, version="66.0.")
     assert mapping == "Firefox-56.0-build1"
+
+
+@pytest.mark.usefixtures("releases_db", "mock_verified_userinfo")
+def test_statsd_gcs_creation(api, firefox_62_0_build1):
+    with mock.patch("auslib.db.statsd.timer") as mocked_timer:
+        ret = api.put("/v2/releases/Firefox-62.0-build1", json={"blob": firefox_62_0_build1, "product": "Firefox"})
+        assert ret.status_code == 200, ret.data
+        # 20 locales to upload for + top level
+        # a creation uploads twice
+        # 21 * 2 = 42
+        assert mocked_timer.call_count == 42
+        mocked_timer.assert_called_with("async_gcs_upload")
+
+
+@pytest.mark.usefixtures("releases_db", "mock_verified_userinfo")
+def test_statsd_gcs_update(api):
+    with mock.patch("auslib.db.statsd.timer") as mocked_timer:
+        blob = {"detailsUrl": "https://newurl", "platforms": {"Darwin_x86_64-gcc3-u-i386-x86_64": {"locales": {"de": {"buildID": "22222222222"}}}}}
+
+        old_data_versions = versions_dict()
+        old_data_versions["."] = 1
+        assert old_data_versions["platforms"]["Darwin_x86_64-gcc3-u-i386-x86_64"]["locales"]["de"]
+        ret = api.post("/v2/releases/Firefox-60.0b3-build1", json={"blob": blob, "old_data_versions": old_data_versions})
+        assert ret.status_code == 200, ret.data
+        # one call for top level modification, one for the changed locale
+        assert mocked_timer.call_count == 2
+        mocked_timer.assert_called_with("async_gcs_upload")
+
+
+@pytest.mark.usefixtures("releases_db", "mock_verified_userinfo")
+def test_statsd_gcs_delete(api):
+    with mock.patch("auslib.db.statsd.timer") as mocked_timer:
+        ret = api.delete("/v2/releases/Firefox-65.0-build1")
+        assert ret.status_code == 200, ret.data
+
+        # one call for top level, one call for each locale
+        assert mocked_timer.call_count == 21
+        mocked_timer.assert_called_with("async_gcs_upload")
