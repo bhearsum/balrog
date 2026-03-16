@@ -1,14 +1,17 @@
 name: Build and Deploy Balrog UI
 
 on:
-  workflow_dispatch:
-    inputs:
-      bucket:
-        description: "bucket to deploy UI to"
-        required: true
-        type: choice
-        options:
-          - balrog-stage-admin-static
+  push:
+    branches:
+      - push-zkqpqzxtnryv
+  # workflow_dispatch:
+  #   inputs:
+  #     bucket:
+  #       description: "bucket to deploy UI to"
+  #       required: true
+  #       type: choice
+  #       options:
+  #         - balrog-stage-admin-static
 
 jobs:
   ui-deploy:
@@ -17,11 +20,11 @@ jobs:
     permissions:
       contents: read
       id-token: write
-    env:
-      BUCKET: ${{ github.event.inputs.bucket }}
-      GAR_LOCATION: ${{ vars.GAR_LOCATION }}
-      GCP_PROJECT_ID: ${{ vars.GCP_PROJECT_ID }}
-      GAR_REPOSITORY: ${{ vars.GAR_REPOSITORY }}
+    # env:
+    #   BUCKET: ${{ github.event.inputs.bucket }}
+    #   GAR_LOCATION: ${{ vars.GAR_LOCATION }}
+    #   GCP_PROJECT_ID: ${{ vars.GCP_PROJECT_ID }}
+    #   GAR_REPOSITORY: ${{ vars.GAR_REPOSITORY }}
     defaults:
       run:
         working-directory: ./ui
@@ -33,20 +36,20 @@ jobs:
       - uses: actions/setup-node@v6
         with:
           node-version: 24
-
-      - id: gcp-auth
-        name: Google authentication
-        uses: google-github-actions/auth@7c6bc770dae815cd3e89ee6cdf493a5fab2cc093 # v3
-        with:
-          token_format: "access_token"
-          service_account: artifact-writer@${{ vars.GCP_PROJECT_ID }}.iam.gserviceaccount.com
-          workload_identity_provider: ${{ vars.GCPV2_GITHUB_WORKLOAD_IDENTITY_PROVIDER }}
-
+      #
+      # - id: gcp-auth
+      #   name: Google authentication
+      #   uses: google-github-actions/auth@7c6bc770dae815cd3e89ee6cdf493a5fab2cc093 # v3
+      #   with:
+      #     token_format: "access_token"
+      #     service_account: artifact-writer@${{ vars.GCP_PROJECT_ID }}.iam.gserviceaccount.com
+      #     workload_identity_provider: ${{ vars.GCPV2_GITHUB_WORKLOAD_IDENTITY_PROVIDER }}
+      #
       - name: install deps
         run: yarn install
 
       - name: build
         run: yarn build
-
-      - name: deploy
-        run: gcloud storage rsync --recursive --delete-unmatched-destination-objects build/ gs://${{ vars.BUCKET }}/
+      #
+      # - name: deploy
+      #   run: gcloud storage rsync --recursive --delete-unmatched-destination-objects build/ gs://${{ vars.BUCKET }}/
